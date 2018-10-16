@@ -6,5 +6,8 @@ public static void main(String args[])
   {
 System.out.println("Prints! this is a Even Number");
   }
+  else
+  {
+    System.out.println("This is an odd number");
 }
 }
